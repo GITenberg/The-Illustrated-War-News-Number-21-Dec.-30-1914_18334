@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18334#The-Illustrated-War-News-Number-21-Dec.-30-1914
 gutenberg_bookshelf:
 - The Illustrated War News
 - World War I
